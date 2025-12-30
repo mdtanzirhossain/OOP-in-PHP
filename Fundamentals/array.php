@@ -50,3 +50,7 @@ echo $student[2]['name'] . ' ' . $student[2]['age'];
 
 $data =['name' => 'Abdur Rahim', 'age' =>25];
 $serialized = serialize($data);
+echo $serialized ."\n";
+
+$json = json_encode($data);
+echo $json;

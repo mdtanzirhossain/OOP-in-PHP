@@ -1,0 +1,8 @@
+1	echo
+2	variable
+3	constant
+4	case
+5	statement
+6	expression
+7	data type - classification with example
+8	operator - classification with example

@@ -1,0 +1,7 @@
+1	String operator
+2	Spaceship operator
+3	Null coalescing operator
+4	Spaceship operator
+6	If else
+7	Ternary operator
+8	Switch

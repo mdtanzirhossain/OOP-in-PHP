@@ -1,0 +1,7 @@
+Array
+Indexed Array
+Associative Array
+var_dump()
+print_r()
+explode()
+implode() 

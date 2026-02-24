@@ -1,0 +1,6 @@
+trim
+substr
+strcmp() - case sensitive test
+strcasecmp() - case insensitive test
+md5 - to hash password
+sha1 - to hash password

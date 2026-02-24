@@ -1,0 +1,9 @@
+foreach loop
+unset - to delete a key and value from array
+filter - removes empty value and display those element with values
+extract - means breaking an array and make each key as variable
+slice - 
+merge - 
+search -
+array-diff -
+range - 
